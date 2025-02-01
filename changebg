@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BCA workshop</title>
+</head>
+<body>
+    <button onclick="changebg()">Click</button>
+    <script src="bgs.js"></script>
+</body>
+</html>
